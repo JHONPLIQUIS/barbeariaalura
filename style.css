@@ -12,7 +12,9 @@ h1 {
 	padding: 40px;
 }
 
-
+.titulo-principal {
+    padding-left: 20px;
+}
 
 
 p {
@@ -29,4 +31,8 @@ em strong {
 
 .itens{
 	font-style: italic;
+}
+
+.titulo-centralizado {
+    text-align: center
 }

@@ -1,5 +1,6 @@
 header{
-    background-color: rgb(201, 203, 206);
+    background-color: rgb(196, 196, 196);
+    padding: 20px 0;
 }
 nav li {
     display: inline;
@@ -22,4 +23,7 @@ nav {
     position: relative;
     width:1230px;
     margin: 0 auto;
+}
+body{
+    background-color: rgb(185, 173, 173);
 }

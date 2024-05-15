@@ -1,5 +1,5 @@
 body {
-	background: #838181
+	background: #ffffff
 }
 
 #banner {
@@ -8,7 +8,7 @@ body {
 h1 {
 	text-align: center;
 	color:#f50303;
-	border: 5px solid #000000;
+	border: 50px solid #000000;
 	padding: 40px;
 }
 

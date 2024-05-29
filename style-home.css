@@ -1,21 +1,19 @@
-body {
-	background: #ffffff
+#banner {
+	width:100%;
 }
 
-#banner {
-	width: 100%;
-}
-h1 {
-	text-align: center;
-	color:#f50303;
-	border: 50px solid #000000;
-	padding: 40px;
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
 }
 
 .titulo-principal {
-    padding-left: 20px;
+	padding-left: 20px;
 }
 
+.titulo-centralizado {
+	text-align: center
+}
 
 p {
 	text-align: center;
@@ -29,11 +27,22 @@ em strong {
 	color: #FF0000;
 }
 
-.itens{
-	font-style: italic;
+.itens {
+	font-style: italic
 }
 
-.titulo-centralizado {
-    text-align: center
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
 }
 
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.imagembeneficios {
+	width: 50%;
+}
